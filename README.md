@@ -20,5 +20,4 @@ The project uses the following components:
 
 This was a *great* project **I learned a lot**
 
-Here is the link to my project on [Google]
-(https://www.google.com).
+Here is the link to my project on [Google](https://www.google.com).
