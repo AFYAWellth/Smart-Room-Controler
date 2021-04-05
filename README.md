@@ -1,4 +1,4 @@
-# Stephanie's Smart-Room-Controler
+# Stephanie Perea Smart-Room-Controler
 
 ##Overview
 The purpose of this project is to turn lights on as the room gets darker.
