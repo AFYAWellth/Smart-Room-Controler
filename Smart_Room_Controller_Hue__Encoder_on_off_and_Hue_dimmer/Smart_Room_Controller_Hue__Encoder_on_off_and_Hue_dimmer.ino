@@ -152,7 +152,7 @@ void SetHueLights(){
   else{
     switchOFF(Teapot);
   }
-  Serial,printf("ClickTeapot is %i \n", buttonStateTeapot);
+  Serial.printf("ClickTeapot is %i \n", buttonStateTeapot);
 }
 
  
